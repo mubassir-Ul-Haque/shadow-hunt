@@ -1,0 +1,14 @@
+{
+  "name": "shadow-hunt",
+  "version": "1.0.0",
+  "description": "Multiplayer 2D Survival Maze Browser Game",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["multiplayer", "game", "canvas", "websockets"],
+  "author": "Antigravity",
+  "license": "MIT"
+}
